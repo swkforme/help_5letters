@@ -1,0 +1,14 @@
+This project uses only built-in Python libraries — no external packages required.
+
+Modules used:
+
+re — regular expressions
+
+Этот проект использует только встроенные библиотеки Python и не требует сторонних установок:
+
+Используемые модули:
+
+re — работа с регулярными выражениями
+
+
+
